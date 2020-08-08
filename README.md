@@ -24,3 +24,4 @@ My name is Mateus José Barbosa and I already have more than 3 years of experien
 
 ## README.md inspiration
 <img src = "https://img.shields.io/github/followers/kautukkundan?label=kautukkundan&style=social">
+<img src = "https://img.shields.io/github/followers/kautukkundan?label=tuliofaria&style=social">
