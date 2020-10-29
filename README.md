@@ -7,7 +7,7 @@ My name is Mateus José Barbosa and I already have more than 3 years of experien
 ## Languages and tools:
 <p align="left">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
@@ -16,10 +16,10 @@ My name is Mateus José Barbosa and I already have more than 3 years of experien
 
 ## Social Medias:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/_mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+5535984770423"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/_mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+5535984770423"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://t.me/mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
 ## README.md inspiration
