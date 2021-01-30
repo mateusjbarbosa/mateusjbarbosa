@@ -4,23 +4,6 @@ My name is Mateus José Barbosa and I already have more than 3 years of experien
 
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=mateusjbarbosa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mateusjbarbosa)
 
-## Languages:
-<p align="left">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="dev_mobile" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-</p>
-
-## Services & Tools:
-<p align="left">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/office_365.svg" alt="office_365" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vs_code" style="vertical-align:top; margin:4px">
-</p>
-
 ## Social Medias:
 <p align="left">
   <a href="https://www.linkedin.com/in/mateusjbarbosa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
