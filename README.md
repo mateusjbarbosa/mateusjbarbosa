@@ -2,7 +2,7 @@
 
 My name is Mateus José Barbosa and I already have more than 3 years of experience in Development, going through internships and academic works!
 
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=mateusjbarbosa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mateusjbarbosa)
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=mateusjbarbosa&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/mateusjbarbosa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjbarbosa&layout=compact)](https://github.com/mateusjbarbosa)
 
