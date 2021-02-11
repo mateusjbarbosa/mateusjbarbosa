@@ -2,7 +2,9 @@
 
 My name is Mateus José Barbosa and I already have more than 3 years of experience in Development, going through internships and academic works!
 
-[![My Github Status](https://github-readme-stats.vercel.app/api?username=mateusjbarbosa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mateusjbarbosa)
+[![My Github Status](https://github-readme-stats.vercel.app/api?username=mateusjbarbosa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mateusjbarbosa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjbarbosa&layout=compact)](https://github.com/mateusjbarbosa)
 
 ## Social Medias:
 <p align="left">
@@ -14,4 +16,5 @@ My name is Mateus José Barbosa and I already have more than 3 years of experien
 
 ## README.md inspiration
 <a href="https://github.com/kautukkundan"><img src = "https://img.shields.io/github/followers/kautukkundan?label=kautukkundan&style=social"></a>&nbsp; &nbsp;
-<a href="https://github.com/tuliofaria"><img src = "https://img.shields.io/github/followers/tuliofaria?label=tuliofaria&style=social"></a>
+<a href="https://github.com/tuliofaria"><img src = "https://img.shields.io/github/followers/tuliofaria?label=tuliofaria&style=social"></a>&nbsp; &nbsp;
+<a href="https://github.com/anuraghazra"><img src = "https://img.shields.io/github/followers/anuraghazra?label=anuraghazra&style=social"></a>
