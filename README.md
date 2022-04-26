@@ -9,6 +9,7 @@ From a very early age, I'm concerned about the quality in which products and ser
 My professional goal is to be recognized as a developer “from the ground up to the finish” in the digital world, or, as said in the market, a FullCycle Developer, managing to participate in all stages of the application development process.
 
 <br />
+<br />
 
 ## Technologies
 
