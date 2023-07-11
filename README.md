@@ -2,11 +2,11 @@
 
 <img align="right" width="300em" height="300em" src="https://github.com/mateusjbarbosa/mateusjbarbosa/blob/master/avatar.png"/>
 
-I currently work as a Software Engineer at FindMe, where I act with Node.js, React and React Native. I also work as Backend Node.js Educator at Digital House Brasil.
+I work as a Software Engineer with a strong experience in Node.js, React, and React Native and, currently, I seek to contribute in all stages of the development process.
 
-From a very early age, I'm concerned about the quality in which products and services are delivered to consumers, not only in the technological world, but also in the everyday world, the famous UX of things.
+From the beginning, I have been driven by a commitment to deliver high-quality products and services, both in the technological world and in everyday life. With a focus on detail and satisfaction, I always strive to exceed expectations.
 
-My professional goal is to be recognized as a developer “from the ground up to the finish” in the digital world, or, as said in the market, a FullCycle Developer, managing to participate in all stages of the application development process.
+My professional goal is to continuously expand my knowledge and be recognized as a versatile developer capable of effectively addressing diverse challenges.
 
 <br />
 <br />
