@@ -4,9 +4,7 @@
 
 I work as a Software Engineer with a strong experience in Node.js, React, and React Native and, currently, I seek to contribute in all stages of the development process.
 
-From the beginning, I have been driven by a commitment to deliver high-quality products and services, both in the technological world and in everyday life. With a focus on detail and satisfaction, I always strive to exceed expectations.
-
-My professional goal is to continuously expand my knowledge and be recognized as a versatile developer capable of effectively addressing diverse challenges.
+My professional goal is to continuously expand my knowledge and be recognized as a versatile developer capable of effectively addressing diverse challenges., always looking for new ways to solve problems, improving performance and quality.
 
 <br />
 <br />
